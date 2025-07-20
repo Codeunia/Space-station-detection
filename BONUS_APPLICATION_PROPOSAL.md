@@ -1,7 +1,7 @@
 # Space Station Safety Monitoring System (SSSMS)
 ## Bonus Application Proposal
 
-**Duality AI Space Station Hackathon**  
+**Duality AI Space Station **  
 **Real-World Application Development**
 
 ---
