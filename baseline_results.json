@@ -1,0 +1,25 @@
+{
+  "timestamp": "2025-06-24T00:37:40.453483",
+  "model": "YOLOv8s",
+  "dataset": "Duality AI Space Station Synthetic Data",
+  "classes": [
+    "Toolbox",
+    "Oxygen Tank",
+    "Fire Extinguisher"
+  ],
+  "metrics": {
+    "mAP50": 0.89682,
+    "mAP50-95": 0.74745,
+    "Precision": 0.93202,
+    "Recall": 0.84728,
+    "Training_Time_Hours": 4.761555555555555,
+    "Epochs": 5
+  },
+  "performance_level": "EXCELLENT",
+  "training_config": {
+    "epochs": 5,
+    "device": "CPU",
+    "optimizer": "AdamW",
+    "learning_rate": 0.001
+  }
+}
