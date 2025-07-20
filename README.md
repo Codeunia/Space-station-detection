@@ -1,18 +1,16 @@
 # 🚀 Space Station Object Detection with YOLOv8
 
 **Duality AI Space Station Hackathon Project**  
-**Team: Code Warrior**  
-**DEMO video(LINKEDIN ):https://www.linkedin.com/in/sandeep-kumar-303bbb25a/**
+ 
+**DEMO video: https://youtu.be/B8AojPx8ffI**
 
-**Team Members:Sandeep Kumar,Rachit Pachauri,Samyak Jain**
 
-**Date: 25 June 2025**
+**Date: 20 July 2025**
 
 ---
 
 ## 📁 Complete Project Files
 
-**📦 Google Drive Repository**: [Download Complete Project Files](https://drive.google.com/drive/folders/1goXFMBTSp_FAVyi22TOElSoHal358VSw?usp=sharing)
 
 The Google Drive contains:
 - **Dataset**: Complete training, validation, and test data
@@ -207,15 +205,10 @@ The project includes a modern PyQt5 desktop application with:
 
 This project is developed for the Duality AI Space Station Hackathon.
 
-## 🤝 Contributing
 
-This is a hackathon project. For questions or collaboration, please contact the team.
-
-## 📞 Contact
-
-**Team**: Code Warrior  
+ 
 **Project**: Space Station Object Detection  
-**Hackathon**: Duality AI Space Station Hackathon
+
 
 ---
 
