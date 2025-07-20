@@ -1,10 +1,9 @@
-# Duality AI Space Station Hackathon - Project Summary
+# Duality AI Space Station  - Project Summary
 
 ## 🎯 Project Overview
 
 **Project Title**: Training a Robust Object Detection Model for Space Station Environments Using Synthetic Data  
-**Team**: [Your Team Name]  
-**Date**: [Submission Date]  
+
 **Status**: ✅ COMPLETED
 
 ---
