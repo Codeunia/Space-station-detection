@@ -1,6 +1,6 @@
 # 🚀 Space Station Object Detection with YOLOv8
 
-**Duality AI Space Station Hackathon Project**  
+**Duality AI Space Station Project**  
  
 **DEMO video: https://youtu.be/B8AojPx8ffI**
 
@@ -203,7 +203,7 @@ The project includes a modern PyQt5 desktop application with:
 
 ## 📝 License
 
-This project is developed for the Duality AI Space Station Hackathon.
+This project is developed for the Duality AI Space Station.
 
 
  
