@@ -1,8 +1,6 @@
 # Training a Robust Object Detection Model for Space Station Environments Using Synthetic Data
 
-**Duality AI Space Station Hackathon Project**  
-**Team: [Your Team Name]**  
-**Date: [Submission Date]**
+
 
 ---
 
